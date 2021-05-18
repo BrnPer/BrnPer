@@ -10,7 +10,7 @@ I love coding! I started coding in a very young age and since that I didn't stop
 <p>📕 What are some principles that I try to follow?<br>
  <ul>
   <li>Always do my best.</li>
-  <li>Try to understand how things work and not just copy-cat</li>
+  <li>Try to understand how things work and not just copy-cat.</li>
   <li> KISS principle.</li>
   <li>Don't allow mistakes to beat me, but instead learn from them.</li>
  </ul>
