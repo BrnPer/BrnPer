@@ -8,7 +8,12 @@ I love coding! I started coding in a very young age and since that I didn't stop
  Currently, I’m into React, .NET, Flutter and TypeScript.
 </p>
 <p>📕 What are some principles that I try to follow?<br>
-To always do my best and try to understand how things work. And follow the KISS principle.
+ <ul>
+  <li>Always do my best.</li>
+  <li>Try to understand how things work and not just copy-cat</li>
+  <li> KISS principle.</li>
+  <li>Don't allow mistakes to beat me, but instead learn from them.</li>
+ </ul>
 </p>
 
 </div>
